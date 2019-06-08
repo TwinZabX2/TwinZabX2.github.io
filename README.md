@@ -1,7 +1,7 @@
 # TwinZabX2.github.io
 ## Welcome To My Page
 
-I am Tossporn   Hansing
+I am Tossaporn   Hansing
 
 You Can Call Me "HEART" Or My AKA  "TwinZabX2"
 
