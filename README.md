@@ -3,10 +3,9 @@
 
 I am Tossporn   Hansing
 
-You Can Me "HEART" Or My AKA  "TwinZabX2"
+You Can Call Me "HEART" Or My AKA  "TwinZabX2"
 
 I Work @ TOT Company
-
 
 
 My Office at TOT@LKS & My Address is Near my office
