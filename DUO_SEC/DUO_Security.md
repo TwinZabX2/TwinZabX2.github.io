@@ -18,18 +18,19 @@ Secure access to work and personal, cloud and on-premises apps with one simple a
 
 **How To Use**
 ตัวอย่างใช้งานคู่กับ GitHub
-1. Login to github
+1. Login to github<br>
 ![Login](/DUO_SEC/github_login.jpg)<br>
-2. เลือก Setting
+2. เลือก Setting<br>
 ![settting](/DUO_SEC/github_set.jpg)<br>
-3. เลือกหัวข้อ Security >> Enable Two-Factor Aurthentication
+3. เลือกหัวข้อ Security >> Enable Two-Factor Aurthentication<br>
 ![sec](/DUO_SEC/github_sec.jpg)<br>
-4. เลือก Set up using an app
+4. เลือก Set up using an app<br>
 ![setapp](/DUO_SEC/github_set_app.jpg)<br>
 ![setapp2](/DUO_SEC/github_set_app2.jpg)<br>
-5. เปิด App DUO บนมือถือ เลือก Add Accouct แล้วถ่ายรูป Barcode
+5. เปิด App DUO บนมือถือ เลือก Add Account แล้วถ่ายรูป Barcode<br>
 ![barcode](/DUO_SEC/github_set_app2.jpg)<br>
 ![barcode2](/DUO_SEC/IMG_0044.jpg)<br>
-6. Test Login
+6. Test Login<br>
 ![Login](/DUO_SEC/github_login.jpg)<br>
 ![Login](/DUO_SEC/IMG_0045.jpg)<br>
+**จบกระบวนการ**
