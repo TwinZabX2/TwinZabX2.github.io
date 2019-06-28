@@ -16,3 +16,20 @@ Secure access to work and personal, cloud and on-premises apps with one simple a
   Duo Mobile ยังสามารถสร้างรหัสผ่านแบบใช้ครั้งเดียว (TOTP) แบบอิงตามเวลาที่ผู้ใช้สามารถพิมพ์ลงในพรอมต์การเข้าสู่ระบบเพื่อทำกระบวนการตรวจสอบสิทธิ์แบบสองปัจจัยให้เสร็จสมบูรณ์
 <br>
 
+**How To Use**
+ตัวอย่างใช้งานคู่กับ GitHub
+1. Login to github
+![Login](/DUO_SEC/github_login.jpg)<br>
+2. เลือก Setting
+![settting](/DUO_SEC/github_set.jpg)<br>
+3. เลือกหัวข้อ Security >> Enable Two-Factor Aurthentication
+![sec](/DUO_SEC/github_sec.jpg)<br>
+4. เลือก Set up using an app
+![setapp](/DUO_SEC/github_set_app.jpg)<br>
+![setapp2](/DUO_SEC/github_set_app2.jpg)<br>
+5. เปิด App DUO บนมือถือ เลือก Add Accouct แล้วถ่ายรูป Barcode
+![barcode](/DUO_SEC/github_set_app2.jpg)<br>
+![barcode2](/DUO_SEC/IMG_0044.jpg)<br>
+6. Test Login
+![Login](/DUO_SEC/github_login.jpg)<br>
+![Login](/DUO_SEC/IMG_0045.jpg)<br>
