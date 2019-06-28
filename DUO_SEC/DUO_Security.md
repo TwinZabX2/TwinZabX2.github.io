@@ -29,8 +29,8 @@ Secure access to work and personal, cloud and on-premises apps with one simple a
 ![setapp2](/DUO_SEC/github_set_app2.jpg)<br>
 5. เปิด App DUO บนมือถือ เลือก Add Account แล้วถ่ายรูป Barcode<br>
 ![barcode](/DUO_SEC/github_set_app2.jpg)<br>
-![barcode2](/DUO_SEC/IMG_0044.jpg)<br>
+![barcode2](/DUO_SEC/IMG_00444.jpg)<br>
 6. Test Login<br>
 ![Login](/DUO_SEC/github_login.jpg)<br>
-![Login](/DUO_SEC/IMG_0045.jpg)<br>
+![Login](/DUO_SEC/IMG_00455.jpg)<br>
 **จบกระบวนการ**
