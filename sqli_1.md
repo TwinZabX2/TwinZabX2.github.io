@@ -11,11 +11,11 @@
 
 โดยการกด Seacrch ก่อนแล้วดูการแสดงผล
 
-<br>![pic1](/pic/sqli1_1.jpg)<br>
+<br>![pic1](/pic/sqli_1_1.jpg)<br>
 
 ทดสอบช่องโหว่
 โดยการใส่ค่า  'union select 1,2,3,4,5,6,7 -- -
-<br>![pic2](/pic/sqli1_2.jpg)<br>
+<br>![pic2](/pic/sqli_1_2.jpg)<br>
 
 ทดสอบโดยการหา version databases โดยการใส่ค่า 'union select 1,2,3,4,version(),6,7 -- -
-<br>![pic3](/pic/sqli1_3.jpg)<br>
+<br>![pic3](/pic/sqli_1_3.jpg)<br>
