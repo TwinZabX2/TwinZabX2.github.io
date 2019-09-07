@@ -41,7 +41,5 @@ if(isset($_GET["title"]))
 
     $recordset = mysql_query($sql, $link);
 
-    if(!$recordset)
-    {
  <br>ทดสอบด้วยเวป RIPS หลังแก้ไขเสร็จ<br>
  <br>![pic5](/pic/sqli_1_rips3.jpg)<br>
