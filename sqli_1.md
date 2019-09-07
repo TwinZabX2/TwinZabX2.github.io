@@ -21,7 +21,9 @@ Members
 <br>![pic3](/pic/sqli_1_3.jpg)<br>
 
 ทดสอบหาช่องโหว่ โดย RIPS
-<br>![pic4](/pic/sqli_1_rips.jpg)<br>
+<br>![pic4](/pic/sqli_1_rips1.jpg)<br>
+วิธีแก้ที่แนะนำโดย RIPS
+<br>![pic5](/pic/sqli_1_rips2.jpg)<br>
 
 แก้ไขโดยการ แก้ไขการรับค่า $_GET["title"] ให้มีการใช้ functions : mysql_real_escape_string
 <br>ก่อนแก้<br>
