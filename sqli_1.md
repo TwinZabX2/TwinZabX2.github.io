@@ -30,16 +30,7 @@ Members
  $title = $_GET["title"];
 <br>หลังแก้<br>
  $title = mysql_real_escape_string($_GET["title"]);
- 
- 
-<br>
-if(isset($_GET["title"])) 
-{   
-    $title = mysql_real_escape_string($_GET["title"]);
-
-    $sql = "SELECT * FROM movies WHERE title LIKE '%" . sqli($title) . "%'";
-
-    $recordset = mysql_query($sql, $link);
-
+ <br>
+<br>![pic6](/pic/sqli_1_code.jpg)<br>
  <br>ทดสอบด้วยเวป RIPS หลังแก้ไขเสร็จ<br>
  <br>![pic5](/pic/sqli_1_rips3.jpg)<br>
