@@ -31,6 +31,6 @@ Members
 <br>หลังแก้<br>
  $title = mysql_real_escape_string($_GET["title"]);
  <br>
-<br>![pic6](/pic/sqli_1_code.jpg)<br>
+ <br>![pic6](/pic/sqli_1_code.jpg)<br>
  <br>ทดสอบด้วยเวป RIPS หลังแก้ไขเสร็จ<br>
  <br>![pic5](/pic/sqli_1_rips3.jpg)<br>
