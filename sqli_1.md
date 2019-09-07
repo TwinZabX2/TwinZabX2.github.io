@@ -20,7 +20,7 @@ Members
 ทดสอบโดยการหา version databases โดยการใส่ค่า 'union select 1,2,3,4,version(),6,7 -- -
 <br>![pic3](/pic/sqli_1_3.jpg)<br>
 
-แก้ไขโดยการ แก้ไขการรับค่า mysql_real_escape_string
+แก้ไขโดยการ แก้ไขการรับค่า $_GET["title"] ให้มีการใช้ functions : mysql_real_escape_string
 <br>ก่อนแก้<br>
  $title = $_GET["title"];
 <br>หลังแก้<br>
