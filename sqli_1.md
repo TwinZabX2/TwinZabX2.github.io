@@ -1,13 +1,13 @@
 
 ## SQL Injection (Search/GET) ##
 
-รายชื่อกลุ่ม 
+Members
 1. Mr.Wisanu  Sameejeang
 2. Mr.Tossaporn Hansing
 3. Mr.Sirimongkol wongfu
 
 
-ทดสอบการ Search/Get)
+ทดสอบการ Search/Get
 
 โดยการกด Seacrch ก่อนแล้วดูการแสดงผล
 
