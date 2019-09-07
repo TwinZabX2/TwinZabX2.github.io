@@ -35,7 +35,6 @@ Members
 <br>
 if(isset($_GET["title"])) 
 {   
-
     $title = mysql_real_escape_string($_GET["title"]);
 
     $sql = "SELECT * FROM movies WHERE title LIKE '%" . sqli($title) . "%'";
@@ -44,4 +43,5 @@ if(isset($_GET["title"]))
 
     if(!$recordset)
     {
-
+ <br>ทดสอบด้วยเวป RIPS หลังแก้ไขเสร็จ<br>
+ <br>![pic5](/pic/sqli_1_rips3.jpg)<br>
