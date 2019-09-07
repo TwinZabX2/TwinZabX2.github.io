@@ -21,13 +21,13 @@
 <br>![pic3](/pic/sqli_1_3.jpg)<br>
 
 แก้ไขโดยการ แก้ไขการรับค่า mysql_real_escape_string
-ก่อนแก้
+<br>ก่อนแก้<br>
  $title = $_GET["title"];
-หลังแก้
+<br>หลังแก้<br>
  $title = mysql_real_escape_string($_GET["title"]);
  
  
- 
+<br>
 if(isset($_GET["title"])) 
 {   
 
