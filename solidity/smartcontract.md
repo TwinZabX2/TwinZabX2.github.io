@@ -1,7 +1,7 @@
 # **Smart Contract คืออไร?**<br>
 <br>
   ก่อนที่เราจะมาทำความรู้จักกับ Smart Contract กัน จะขอเล่าที่มาที่ไปของ Ethereum กับต้นกำเนิดแนวคิด Smart Contract 
-โดยจะขอยืมบทความจากเวปหนึ่งมาเล่า ซึ่งผมอ่านแล้วเห็นภาพ (https://nuuneoi.com/blog/blog.php?read_id=939)
+โดยจะขอยืมบทความจากเวปหนึ่งมาเล่า ซึ่งผมอ่านแล้วเห็นภาพ credits by (https://nuuneoi.com/blog/blog.php?read_id=939)
 <br>
 ## **Ethereum กับต้นกำเนิดแนวคิด Smart Contract**
   ก่อนจะไปถึงรายละเอียดว่า Smart Contract คืออะไร การเข้าใจแนวคิดว่าทำไมถึงต้องมีสิ่งที่เรียกว่า Smart Contract ด้วยคงจะเป็นการเริ่มต้นที่ดีกว่า
