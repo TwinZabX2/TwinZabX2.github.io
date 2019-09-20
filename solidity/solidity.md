@@ -21,4 +21,7 @@ solidity เป็นภาษาสำหรับการสร้าง Smar
  * เขียนอยู่ในรูปของไฟล์ .sol
  * คล้ายกับ JavaScript
  * แต่เป็นภาษาแบบ Strongly typed
- 
+ <br>
+![](https://twinzabx2.github.io/solidity/solidity.bmp)
+<br>
+จากรูปแสดงให้เห็นว่าภาษา Solidity เมื่อถูก compile จะได้ output ออกมาเป็น 2 ส่วนซึ่งก็คือ byte code (ส่วนที่เป็น machine code ที่กล่าวถึงก่อนหน้านี้) และ ABI ซึ่งก็คือ interface สำหรับติดต่อกับ Ethereum blockchain ซึ่งใช้ในฝั่งของ client
